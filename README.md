@@ -125,18 +125,5 @@ System administration labs focused on users, permissions, and services.
 
 ---
 
-# 🧭 Portfolio Objective
-
-This repository brings together projects developed to strengthen my knowledge in software development, covering programming logic, databases, web technologies, and system administration.
-
----
-
-# 📫 Contact
-
-- GitHub: [your username]
-- Email: [your email]
-- LinkedIn: [your LinkedIn]
-
----
 
 ⭐ Thanks for visiting my portfolio
