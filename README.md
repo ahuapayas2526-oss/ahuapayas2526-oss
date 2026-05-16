@@ -19,6 +19,24 @@ I am especially interested in building full systems that combine logic, data, an
 
 # 🧠 Featured Projects
 
+## 🐍 Snake Game
+
+Classic Snake game developed with movement logic and collision system.
+
+### 🧩 Technologies:
+- Java (or chosen technology)
+- Game logic programming
+- Basic GUI (if applicable)
+
+### 🔥 Features:
+- Player movement control
+- Score system
+- Collision detection (food and walls)
+- Increasing difficulty over time
+
+📌 Goal: practice real-time logic and event handling in a game environment.
+Project: https://github.com/ahuapayas2526-oss/Snake-Game
+---
 ## ⚽ Football Manager (Java OOP)
 
 A complete football management system with league simulation, transfers, and statistics.
@@ -40,24 +58,6 @@ A complete football management system with league simulation, transfers, and sta
 
 ---
 
-## 🐍 Snake Game
-
-Classic Snake game developed with movement logic and collision system.
-
-### 🧩 Technologies:
-- Java (or chosen technology)
-- Game logic programming
-- Basic GUI (if applicable)
-
-### 🔥 Features:
-- Player movement control
-- Score system
-- Collision detection (food and walls)
-- Increasing difficulty over time
-
-📌 Goal: practice real-time logic and event handling in a game environment.
-
----
 
 ## 🌐 Football League Web App
 
