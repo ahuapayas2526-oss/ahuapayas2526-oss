@@ -58,7 +58,7 @@ A complete football management system with league simulation, transfers, and sta
 - Dynamic league standings
 
 📌 Goal: simulate a full football manager system using OOP principles and advanced business logic.
-
+- Project: https://github.com/ahuapayas2526-oss/FootbalManager
 ---
 
 
