@@ -1,9 +1,9 @@
 
 <img width="1920" height="766" alt="Diseño sin título (3)" src="https://github.com/user-attachments/assets/bdce13de-9997-444f-b876-7408687dea8d" />
 
-# Portfolio
+# Welcome to my software development Portfolio.  
 
-Welcome to my software development portfolio.  
+
 Here you will find projects built across different areas such as object-oriented programming, databases, web development, and system administration.
 
 ---
