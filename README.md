@@ -101,7 +101,7 @@ Web application for visualizing football league data.
 - Player/coach registration form (UI only)
 
 📌 Goal: work with dynamic data and DOM manipulation.
-
+- Project: https://github.com/ahuapayas2526-oss/Pagina-Web-Footbal-lManager
 ---
 
 
