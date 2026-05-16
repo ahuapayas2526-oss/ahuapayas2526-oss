@@ -18,6 +18,28 @@ I am a developer in training with a strong focus on:
 
 I am especially interested in building full systems that combine logic, data, and user interfaces.
 
+# 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Java
+- SQL
+- JavaScript
+
+### 🌐 Web Development
+- HTML5
+- CSS3 (Flexbox, Grid)
+- DOM Manipulation
+
+### 🗄️ Databases
+- MySQL
+- Database Design
+- Triggers & Stored Procedures
+
+### ⚙️ Tools & Technologies
+- Git & GitHub
+- Linux / Ubuntu
+- Windows Administration
+- Apache Server
 ---
 
 # 🧠 Featured Projects
@@ -82,48 +104,7 @@ Web application for visualizing football league data.
 
 ---
 
-## 🗄️ Football Database System
 
-Relational database system for managing football leagues, players, teams, and statistics.
-
-### 🧩 Technologies:
-- MySQL
-- Advanced SQL
-- Triggers
-- Stored Procedures
-- Views and roles
-
-### 🔥 Features:
-- Team and player management
-- Data integrity using triggers
-- Procedures for transfers and statistics
-- Role-based access control
-- Audit logging system
-
-📌 Goal: design and manage real-world database systems with business logic.
-
----
-
-## 🖥️ System Administration (Linux / Windows)
-
-System administration labs focused on users, permissions, and services.
-
-### 🧩 Technologies:
-- Linux (Ubuntu)
-- Windows CMD / PowerShell
-- Apache server
-- User and permission management
-
-### 🔥 Features:
-- User and group creation
-- File permission configuration
-- Service management (Apache, processes, tasks)
-- Bash scripting basics
-- Security policies configuration
-
-📌 Goal: understand real-world system administration environments.
-
----
 
 
 ⭐ Thanks for visiting my portfolio
