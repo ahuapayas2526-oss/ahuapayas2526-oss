@@ -14,7 +14,6 @@ I am a developer in training with a strong focus on:
 - Object-Oriented Programming (Java)
 - Relational Databases (SQL)
 - Web Development (HTML, CSS, JavaScript)
-- System Administration (Linux & Windows)
 
 I am especially interested in building full systems that combine logic, data, and user interfaces.
 
