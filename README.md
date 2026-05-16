@@ -38,7 +38,7 @@ Classic Snake game developed with movement logic and collision system.
 - Increasing difficulty over time
 
 📌 Goal: practice real-time logic and event handling in a game environment.
-Project: https://github.com/ahuapayas2526-oss/Snake-Game
+- Project: https://github.com/ahuapayas2526-oss/Snake-Game
 ---
 ## ⚽ Football Manager (Java OOP)
 
