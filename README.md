@@ -26,7 +26,7 @@ I am especially interested in building full systems that combine logic, data, an
 
 ### 🌐 Web Development
 - HTML5
-- CSS3 (Flexbox, Grid)
+- CSS
 - DOM Manipulation
 
 ### 🗄️ Databases
